@@ -1,1 +1,0 @@
-# frontend-mentor-qr-code-component-challenge
